@@ -44,34 +44,36 @@ section {
 article {
     color: #ebebeb;
     background-color: #777;
-    width: 485px;
-    margin-left: -25px;
+    width: 488px;
+    margin-left: -21px;
     height: 144px;
-    padding: 30px;
-    margin-top: 20px;
+    padding: 25px;
+    margin-top: 30px;
+    text-align: center;
 }
 
 h1 {
     color: #777;
     background-color: #ebebeb;
-    margin-top: 20px;
-    width: 475px;
+    margin-top: 15px;
+    width: 460px;
     padding: 15px;
     text-align: center;
-    margin-left: -10px;
+    margin-left: -6px;
+    margin-bottom: 18px;
 }
 
 p {
     color: #777;
     background-color: #ebebeb;
-    width: 475px;
+    width: 460px;
     padding: 15px;
     text-align: center;
-    margin-left: -10px;
+    margin-left: -6px;
 }
 
 .paragraph {
-    margin-top: -11px;
+    margin-top: -8px;
 }
 
 aside {
